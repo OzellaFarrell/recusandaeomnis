@@ -1,0 +1,38 @@
+{
+  "name": "recusandaeomnis",
+  "version": "1.6.0",
+  "description": "A heap-based implementation of priority queue in javascript with typescript support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OzellaFarrell/recusandaeomnis.git"
+  },
+  "keywords": [
+    "molestiae",
+    "priority queue",
+    "priority queue es6",
+    "priority queue js"
+  ],
+  "author": "AnsleyBraun",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "grunt": "^1.0.4",
+    "grunt-eslint": "^22.0.0",
+    "grunt-mocha-istanbul": "^5.0.2",
+    "grunt-mocha-test": "^0.13.3",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "@datastructures-js/heap": "^4.0.2",
+    "corruptiat": "^1.0.0",
+    "ipsamconsequatur": "^1.0.0"
+  }
+}
